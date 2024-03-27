@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/544_mern/static/css/main.b1d7ec7b.css",
-    "main.js": "/544_mern/static/js/main.06f9f3a7.js",
+    "main.js": "/544_mern/static/js/main.9990c811.js",
     "static/js/787.81e59f9b.chunk.js": "/544_mern/static/js/787.81e59f9b.chunk.js",
-    "static/media/student logo.jpg": "/544_mern/static/media/student logo.2a3ac6076c576c2ccc84.jpg",
     "index.html": "/544_mern/index.html",
     "main.b1d7ec7b.css.map": "/544_mern/static/css/main.b1d7ec7b.css.map",
-    "main.06f9f3a7.js.map": "/544_mern/static/js/main.06f9f3a7.js.map",
+    "main.9990c811.js.map": "/544_mern/static/js/main.9990c811.js.map",
     "787.81e59f9b.chunk.js.map": "/544_mern/static/js/787.81e59f9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1d7ec7b.css",
-    "static/js/main.06f9f3a7.js"
+    "static/js/main.9990c811.js"
   ]
 }
